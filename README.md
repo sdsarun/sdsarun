@@ -2,5 +2,6 @@
 — John Johnson
 
 ```
-let whoami = "Sarun Daunghirun"
+$ whoami
+Sarun Daunghirun
 ```
